@@ -136,3 +136,7 @@
 ## 教育背景
 
 - **洛阳理工学院** | 本科・统招 | 2015.09–2019.07
+
+## 附件
+
+- [简历](https://isfanghao.github.io/Resume/resume.pdf)
